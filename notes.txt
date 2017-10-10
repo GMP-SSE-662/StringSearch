@@ -1,0 +1,10 @@
+This file is good for Extract Method.
+
+Specifically look at:
+-BNDM.java
+-BNDMCI.java
+-BNDMWildcards.java
+-BNDMWildcardsCI.java
+-BoyerMooreHorspool.java
+
+
